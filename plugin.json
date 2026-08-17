@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sap.tools",
+  "version": "0.1.0",
+  "description": "Tools for SAP.",
+  "author": {
+    "name": "Lik Wei",
+    "email": "likweitan@gmail.com",
+    "url": "https://github.com/likweitan"
+  },
+  "repository": "https://github.com/tenthring/sap-plugins",
+  "license": "MIT",
+  "keywords": ["sap", "abap", "btp", "rap", "cds", "odata"]
+}
