@@ -1,4 +1,4 @@
-# abap-skills (Agent Plugins package)
+# SAP Agent Plugins
 
 An [Agent Plugins](https://github.com/agentplugins/agent-plugins-spec) v1.0.0
 package bundling the 18 Agent Skills from
