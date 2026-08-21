@@ -1,16 +1,16 @@
-# SAP Agent Plugins
+<div align="center">
 
-An [Agent Plugins](https://github.com/agentplugins/agent-plugins-spec) v1.0.0
-package bundling the 18 Agent Skills from
-[likweitan/abap-skills](https://github.com/likweitan/abap-skills) for SAP ABAP
-development — RAP, CDS, OData, ABAP Cloud, testing, authorization, eventing,
-migration, abapGit, and BTP diagram generation.
+<img width="112" height="112" alt="27b2e9f160f29503-otter-wide-set-eyes-right" src="https://github.com/user-attachments/assets/b3c69a61-71a5-4835-a125-61e4b2c707ae" />
 
-All skill content, scripts, and reference files are copied unmodified from the
-upstream repository; only the plugin packaging (`plugin.json` manifest at the
-package root) was added to conform to the Agent Plugins standard layout
-(§4.2). See [LICENSE](./LICENSE) (MIT, © Lik Wei) for the original license,
-preserved as required for redistribution.
+# SAP Plugins
+
+**Agent plugins for SAP**
+
+RAP, CDS, OData, ABAP Cloud, testing, authorization, eventing, migration, abapGit, and BTP diagram generation
+
+</div>
+
+All skill content, scripts, and reference files are copied unmodified from the upstream repository; only the plugin packaging (`plugin.json` manifest at the package root) was added to conform to the Agent Plugins standard layout. See [LICENSE](./LICENSE) for the original license, preserved as required for redistribution.
 
 ## Layout
 
